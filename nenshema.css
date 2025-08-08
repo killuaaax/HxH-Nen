@@ -19,15 +19,15 @@ html, body {
 
 .circle {
   position: absolute;
-  width: 102px;
-  height: 102px;
+  width: 102.7px;
+  height: 102.7px;
   border: solid 2px transparent;
   border-radius: 50%;
   background-color: transparent;
   line-height: 0;
   font-size: 0;
 }
-.enhancer { top: 17.3%; left: 46.6%; }
+.enhancer { top: 17.3%; left: 46.65%; }
 
 .enhancer:hover{
     box-shadow: #227c17 0 0 25px 15px ;
@@ -35,7 +35,7 @@ html, body {
     
     transition: 0.3s;
 }
-.specialisation { top: 73.5%; left:46.3%; }
+.specialisation { top: 73.7%; left:46.35%; }
 
 .specialisation:hover{
     box-shadow: #006cbf 0 0 25px 15px ;
@@ -43,7 +43,7 @@ html, body {
     
     transition: 0.5s;
 }
-.emission { top: 31.5%; left: 33.7%; }
+.emission { top: 31.5%; left: 33.77%; }
 .emission:hover{
     box-shadow: #e5a017 0 0 25px 15px ;
     
@@ -57,7 +57,7 @@ html, body {
     
     transition: 0.3s;
 }
-.manipulation{top:59% ; left:33.6% ;}
+.manipulation{top:59.3% ; left:33.68% ;}
 .manipulation:hover{
   box-shadow: #bcbbb9 0 0 25px 25px ;
     
@@ -70,4 +70,9 @@ html, body {
     
     
     transition: 0.3s;
+}
+.nen-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
 }
