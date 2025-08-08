@@ -71,3 +71,8 @@ html, body {
     
     transition: 0.3s;
 }
+.nen-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
